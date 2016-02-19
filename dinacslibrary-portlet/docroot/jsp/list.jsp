@@ -9,8 +9,7 @@
 <%
 	List<Book> Book1 = Book1LocalServiceUtil.getBook(0, -1); 
 %> 
-<table border="1" width="80%"> 
-<tr> 
+<table border="1" width="80%"> <tr> 
 <th>Book Title</th>
  <th>Author</th> 
  
